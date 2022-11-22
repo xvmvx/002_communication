@@ -9,6 +9,8 @@ PBX~SWITCH~SOFTPHONE
     - [izpbx](https://github.com/xvmvx/FP_izpbx) 一个系统/没有使用/Docker-compose
   - [ Issabel ](https://github.com/xvmvx/communication/tree/main/Issabel)
 * [FreeSWITCH](https://github.com/xvmvx/communication/tree/main/FreeSWITCH) 
+  - [tools](https://github.com/xvmvx/communication/tree/main/FreeSWITCH/tools)FreeSWITCH 的插件/模块/工具等
+    - [OpenACD](https://github.com/xvmvx/FS_oacd_hop)FreeSWITCH 的呼叫队列模块
   - [ FusionPBX ](https://github.com/xvmvx/communication/tree/main/FusionPBX)
   - [ XSwitch ](https://github.com/xvmvx/communication/tree/main/XSwitch)
   - [ ASTPPV5 ](https://github.com/xvmvx/communication/tree/main/ASTPP)
