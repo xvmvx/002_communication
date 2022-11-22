@@ -6,7 +6,7 @@ PBX~SWITCH~SOFTPHONE
 - FreePBX
 
 ## 看的
-* Vi
+* [ VitalPBX ](https://github.com/xvmvx/communication/tree/main/VitalPBX) 
 * ASTT V5
 ## 用的
 ## 琢磨的
