@@ -1,0 +1,44 @@
+
+--------------------------------------------------------------------------------------------------------------------------
+								ASTPP 安装指南（社区版）
+--------------------------------------------------------------------------------------------------------------------------
+
+安装
+============
+第 1 步：将 install.sh 文件复制到服务器的 /usr/src/ 目录中示例命令：
+scp install.sh root@yourserverip:/usr/src/。您也可以使用 filezilla 上传。 
+第二步：设置install.sh文件的执行权限。 
+		cd /usr/src/
+		chmod +x install.sh
+第 3 步：开始安装过程。 
+		./install.sh		
+安装完成后，将信息保存在安全的地方。 
+
+
+快速开始
+=============
+https://docs.astppbilling.org/display/itplmars/Quick+Start
+
+
+文档
+=============
+文档：https://docs.astppbilling.org/display/itplmars/ASTPP
+视频教程：http://www.astppbilling.org/gallery/
+
+
+社区
+============
+论坛：https://forum.astppbilling.org/
+错误跟踪器：https://jira.astppbilling.org/
+聊天：https://gitter.im/ASTPP-Official/Lobby
+如何贡献：https://docs.astppbilling.org/display/itplmars/How+to+Contribute
+
+
+安全
+============
+向我们的安全电子邮件地址 security@astppbilling.org 报告安全问题。
+
+
+接触： 
+============
+https://www.astppbilling.org/contact-us/
