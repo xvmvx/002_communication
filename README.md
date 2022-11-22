@@ -6,5 +6,6 @@ PBX~SWITCH~SOFTPHONE
 - FreePBX
 
 ## 看的
+* Vi
 ## 用的
 ## 琢磨的
