@@ -7,5 +7,6 @@ PBX~SWITCH~SOFTPHONE
 
 ## 看的
 * Vi
+* ASTT V5
 ## 用的
 ## 琢磨的
